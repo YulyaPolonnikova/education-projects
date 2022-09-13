@@ -2,7 +2,7 @@
 **_Проекты, реализованные в рамках обучения на платформе Яндекс Практикум_**
 <h3> Содержание </h3>
     <ol>
-        <li> **[Сегментация клиентов банка](https://github.com/YulyaPolonnikova/educational-projects/tree/main/01.%20%D0%A1%D0%B5%D0%B3%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F%20%D0%BA%D0%BB%D0%B8%D0%B5%D0%BD%D1%82%D0%BE%D0%B2%20%D0%B1%D0%B0%D0%BD%D0%BA%D0%B0)**
+        <li> [Сегментация клиентов банка](https://github.com/YulyaPolonnikova/educational-projects/tree/main/01.%20%D0%A1%D0%B5%D0%B3%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F%20%D0%BA%D0%BB%D0%B8%D0%B5%D0%BD%D1%82%D0%BE%D0%B2%20%D0%B1%D0%B0%D0%BD%D0%BA%D0%B0) </li>
 **_Краткое описание: _**_банковская сфера, оценка потребляемых клиентами продуктов_
 **_Инстументы:_**_ исследовательский анализ, визуализация данных, продуктовые метрики, проверка гипотез, построение дашборда_ </li>
         <li> **[АВ-тестирование](https://github.com/YulyaPolonnikova/educational-projects/tree/main/02.%20AB-%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5)**
